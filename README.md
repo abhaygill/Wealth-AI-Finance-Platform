@@ -4,12 +4,6 @@
 
 ---
 
-## 🚀 Live Demo
-
-> 🌐 [Click here to view the live demo](#) *(add your live URL here)*
-
----
-
 ## 🧠 Key AI-Powered Features
 
 ### 🧾 Smart Receipt Scanner
@@ -34,6 +28,32 @@
 
 ---
 
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="Screenshots/dashboard.png" width="200px"><br>
+      <b>Dashboard with charts</b>
+    </td>
+    <td align="center">
+      <img src="Screenshots/scanner.png" width="200px"><br>
+      <b>Smart receipt scanner</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="Screenshots/monthly_report.png" width="200px"><br>
+      <b>Monthly report preview</b>
+    </td>
+    <td align="center">
+      <img src="Screenshots/dark_mode.png" width="200px"><br>
+      <b>Dark mode preview</b>
+    </td>
+  </tr>
+</table>
+
+---
 ## 🧩 Core Features
 
 - 📈 **Dashboard Overview** – Summary of income, expenses, budget progress, and accounts.
@@ -96,13 +116,6 @@
 
 ---
 
-## 📸 Screenshots
-
-> *(Add your UI screenshots here)*  
-> - Dashboard with charts  
-> - Smart receipt scanner  
-> - Monthly report preview  
-> - Dark mode preview
 
 ## 📅 Future Improvements
 
