@@ -33,22 +33,22 @@
 <table>
   <tr>
     <td align="center">
-      <img src="Screenshots/dashboard.png" width="200px"><br>
-      <b>Dashboard with charts</b>
+      <img src="Screenshots/dashboard.png" width="450px"><br>
+      <b>Dashboard</b>
     </td>
     <td align="center">
-      <img src="Screenshots/scanner.png" width="200px"><br>
-      <b>Smart receipt scanner</b>
+      <img src="Screenshots/scanner.png" width="450px"><br>
+      <b>Add Transaction</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="Screenshots/monthly_report.png" width="200px"><br>
-      <b>Monthly report preview</b>
+      <img src="Screenshots/monthly_report.png" width="450px"><br>
+      <b>Account Details</b>
     </td>
     <td align="center">
-      <img src="Screenshots/dark_mode.png" width="200px"><br>
-      <b>Dark mode preview</b>
+      <img src="Screenshots/dark_mode.png" width="450px"><br>
+      <b>Dark Mode</b>
     </td>
   </tr>
 </table>
